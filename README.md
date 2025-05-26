@@ -10,3 +10,11 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+
+### Create a python virtual environment and initialize it - windows 
+
+```
+python -m venv .venv
+<environment_name>\Scripts\activate.bat
+```
