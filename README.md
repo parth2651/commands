@@ -17,4 +17,5 @@ pip install -r requirements.txt
 ```
 python -m venv .venv
 <environment_name>\Scripts\activate.bat
+sometimes you need to use fullpath\Scripts\activate.bat
 ```
